@@ -1,0 +1,22 @@
+.app{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    justify-content: space-around;
+  }
+header {
+  margin-top: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.searchMovie {
+  background-color: white;
+  text-align: center;
+  font-size:25px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
